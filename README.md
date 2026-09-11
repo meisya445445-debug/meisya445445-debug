@@ -1,4 +1,4 @@
-# Hi Nama saya meisya selamat datang di akun saya 👋
+# Hi Nama saya meisya selamat datang di akun saya ⌚👋
 
 ## About me
 saya adalah siswa kelas *10 RPL 2* dari SMKN 1 PURWOSARI
@@ -9,6 +9,7 @@ saya adalah siswa kelas *10 RPL 2* dari SMKN 1 PURWOSARI
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+## lezatt🍱🍙🤤
 |makanan|aplikasi|
 |:---|:---|
 |Burger|![burger king](https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=Burger%20King&logoColor=white)|
